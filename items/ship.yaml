@@ -1,0 +1,18 @@
+ship1:
+  image: assets/ship/spaceship.png
+ship2:
+  image: assets/ship/invider.png
+ship3:
+  image: assets/ship/big_boss_sprites.png
+ship4:
+  image: assets/ship/super_invider.png
+boss1:
+  image: assets/ship/boss1.png
+  pv: 500
+  pv_max: 500
+  xp_monstre: 500
+boss2:
+  image: assets/ship/boss2.png
+  pv: 1000
+  pv_max: 1000
+  xp_monstre: 1000

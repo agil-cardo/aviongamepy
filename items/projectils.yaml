@@ -1,0 +1,75 @@
+boss:
+  solar:
+    damage: 100
+    load: assets/projectils/solar/solar.png
+    magasin: 10
+    name: Solar
+    speed: 12
+    rotation: True
+  ice:
+    damage: 150
+    load: assets/projectils/ice/ice.png
+    magasin: 10
+    name: Solar
+    speed: 16
+    rotation: True
+ship:
+  laser:
+    damage: 10
+    load: assets/projectils/laser/laser.png
+    magasin: 1
+    name: simple_laser
+    speed: 10
+    rotation: False
+  lightning:
+    damage: 20
+    load: assets/projectils/lightning/lightning.png
+    magasin: 5
+    name: blue phaser
+    speed: 10
+    rotation: False
+  plasma:
+    damage: 15
+    load: assets/projectils/plasma/plasma.png
+    magasin: 3
+    name: simple_plasma
+    speed: 10
+    rotation: False
+  wind:
+    damage: 30
+    load: assets/projectils/wind/wind.png
+    magasin: 3
+    name: wind_cutter
+    speed: 10
+    rotation: True
+  frozen:
+    damage: 35
+    load: assets/projectils/frozen/frozen.png
+    magasin: 3
+    name: ice_bullet
+    speed: 10
+    rotation: True
+  slash:
+    damage: 40
+    load: assets/projectils/slash/slash.png
+    magasin: 3
+    name: slash_cut
+    speed: 10
+    rotation: False
+power:
+  magasin:
+    load: assets/projectils/bonus/Rockets_Bonus.png
+    name: magasin
+    min: 8
+    max: 20
+  life:
+    load: assets/projectils/bonus/HP_Bonus.png
+    name: life
+    min: 20
+    max: 70
+  armor:
+    load: assets/projectils/bonus/Armor_Bonus.png
+    name: armor
+    min: 70
+    max: 100
+

@@ -1,0 +1,32 @@
+lightning: #nom de l'explosion
+  width: 5 #nb image en largeur
+  height: 5 #nb image en hauteur
+  load: assets/projectils/lightning/explo_lightning.png #path
+laser:
+  width: 4
+  height: 4
+  load: assets/projectils/laser/explo_laser.png
+plasma:
+  width: 4
+  height: 4
+  load: assets/projectils/plasma/explo_plasma.png
+frozen:
+  width: 5
+  height: 4
+  load: assets/projectils/frozen/explo_frozen.png
+wind:
+  width: 5
+  height: 6
+  load: assets/projectils/wind/explo_wind.png
+slash:
+  width: 5
+  height: 6
+  load: assets/projectils/slash/explo_slash.png
+solar:
+  width: 5
+  height: 5
+  load: assets/projectils/solar/explo_solar.png
+ice:
+  width: 5
+  height: 5
+  load: assets/projectils/ice/explo_ice.png
