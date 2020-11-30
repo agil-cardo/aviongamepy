@@ -3,11 +3,15 @@
 
 ## Documentation :
 
-
 ### Main :
 - Jeu principal. Boucle while.
 - Gestion des modes Jeu et Menu
 
+## Libraries installation:
+To install the libraries required for the game, run the following pip command
+```bash
+pip install -r requirements.txt
+```
 
 ## Game :
 - Class de jeu
